@@ -1,0 +1,39 @@
+C:\Users\123\source\repos\tele\tele\bin\Debug\tele.exe.config
+C:\Users\123\source\repos\tele\tele\bin\Debug\tele.exe
+C:\Users\123\source\repos\tele\tele\bin\Debug\tele.pdb
+C:\Users\123\source\repos\tele\tele\obj\Debug\tele.csproj.AssemblyReference.cache
+C:\Users\123\source\repos\tele\tele\obj\Debug\MainWindow.g.cs
+C:\Users\123\source\repos\tele\tele\obj\Debug\App.g.cs
+C:\Users\123\source\repos\tele\tele\obj\Debug\tele_MarkupCompile.cache
+C:\Users\123\source\repos\tele\tele\obj\Debug\tele_MarkupCompile.lref
+C:\Users\123\source\repos\tele\tele\obj\Debug\MainWindow.baml
+C:\Users\123\source\repos\tele\tele\obj\Debug\tele.g.resources
+C:\Users\123\source\repos\tele\tele\obj\Debug\tele.Properties.Resources.resources
+C:\Users\123\source\repos\tele\tele\obj\Debug\tele.csproj.GenerateResource.cache
+C:\Users\123\source\repos\tele\tele\obj\Debug\tele.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\tele\tele\obj\Debug\tele.exe
+C:\Users\123\source\repos\tele\tele\obj\Debug\tele.pdb
+C:\Users\123\OneDrive\Рабочий стол\tele\tele\bin\Debug\Roles.mdf
+C:\Users\123\OneDrive\Рабочий стол\tele\tele\bin\Debug\Roles_log.ldf
+C:\Users\123\OneDrive\Рабочий стол\tele\tele\bin\Debug\tele.exe.config
+C:\Users\123\OneDrive\Рабочий стол\tele\tele\bin\Debug\tele.exe
+C:\Users\123\OneDrive\Рабочий стол\tele\tele\bin\Debug\tele.pdb
+C:\Users\123\OneDrive\Рабочий стол\tele\tele\obj\Debug\tele.csproj.AssemblyReference.cache
+C:\Users\123\OneDrive\Рабочий стол\tele\tele\obj\Debug\MainWindow.g.cs
+C:\Users\123\OneDrive\Рабочий стол\tele\tele\obj\Debug\App.g.cs
+C:\Users\123\OneDrive\Рабочий стол\tele\tele\obj\Debug\tele_Content.g.cs
+C:\Users\123\OneDrive\Рабочий стол\tele\tele\obj\Debug\tele_MarkupCompile.cache
+C:\Users\123\OneDrive\Рабочий стол\tele\tele\obj\Debug\tele_MarkupCompile.lref
+C:\Users\123\OneDrive\Рабочий стол\tele\tele\obj\Debug\MainWindow.baml
+C:\Users\123\OneDrive\Рабочий стол\tele\tele\obj\Debug\tele.g.resources
+C:\Users\123\OneDrive\Рабочий стол\tele\tele\obj\Debug\tele.Properties.Resources.resources
+C:\Users\123\OneDrive\Рабочий стол\tele\tele\obj\Debug\tele.csproj.GenerateResource.cache
+C:\Users\123\OneDrive\Рабочий стол\tele\tele\obj\Debug\tele.csproj.CoreCompileInputs.cache
+C:\Users\123\OneDrive\Рабочий стол\tele\tele\obj\Debug\tele.exe
+C:\Users\123\OneDrive\Рабочий стол\tele\tele\obj\Debug\tele.pdb
+C:\Users\123\OneDrive\Рабочий стол\tele\tele\bin\Debug\EntityFramework.dll
+C:\Users\123\OneDrive\Рабочий стол\tele\tele\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\123\OneDrive\Рабочий стол\tele\tele\bin\Debug\EntityFramework.xml
+C:\Users\123\OneDrive\Рабочий стол\tele\tele\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\123\OneDrive\Рабочий стол\tele\tele\obj\Debug\tele.csproj.CopyComplete
+C:\Users\123\OneDrive\Рабочий стол\tele\tele\obj\Debug\tele.Migrations.AddUser.resources
