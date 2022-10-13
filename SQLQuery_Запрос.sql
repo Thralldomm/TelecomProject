@@ -1,7 +1,0 @@
-﻿INSERT INTO Person (Role, Number, Password) VALUES (N'Руководитель отдела по работе с клиентами', N'11111111111', '11111111' )
-INSERT INTO Person (Role, Number, Password) VALUES (N'Менеджер по работе с клиентами', N'22222222222', '22222222' )
-INSERT INTO Person (Role, Number, Password) VALUES (N'Руководитель отдела технической поддержки', N'33333333333', '33333333' )
-INSERT INTO Person (Role, Number, Password) VALUES (N'Специалист технической поддержки', N'44444444444', '44444444' )
-INSERT INTO Person (Role, Number, Password) VALUES (N'Бухгалтер', N'55555555555', '55555555' )
-INSERT INTO Person (Role, Number, Password) VALUES (N'Директор по развитию', N'66666666666', '66666666' )
-INSERT INTO Person (Role, Number, Password) VALUES (N'Сотрудник технического департамента', N'77777777777', '77777777' )
